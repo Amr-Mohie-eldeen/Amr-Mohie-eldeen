@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Amr Mohie
 - 👀 I’m interested in Enterprise IT Infrasturcture , Cloud Computing and DevOps
 - 🌱 I’m currently learning  
-       1. AWS 
-       2. Python 
-       3. CI/CD
+       1. AWS  
+       2. Python  
+       3. CI/CD  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  via linkedin <linkedin.com/in/amohiee/>
 
