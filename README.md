@@ -5,7 +5,7 @@
        2. Python  
        3. CI/CD  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  via linkedin <https://linkedin.com/in/amohiee/>
+- 📫 Reach me on ***linkedin*** <https://linkedin.com/in/amohiee/>
 
 <!---
 Amr-Mohie-eldeen/Amr-Mohie-eldeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
